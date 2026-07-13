@@ -1,6 +1,6 @@
 # Explainable Music Genre Classification Using Attention-Based CNN-LSTM
 
-> Published at NGNDAI-2026 | Springer Lecture Notes in Networks and Systems (Scopus-indexed)
+> Accepted at NGNDAI-2026 (September 2026) — In Press | Springer Lecture Notes in Networks and Systems (Scopus-indexed)
 
 ## Overview
 A deep learning system for music genre classification that combines CNN spatial 
