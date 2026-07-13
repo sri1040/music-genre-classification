@@ -42,3 +42,26 @@ Python | TensorFlow | Keras | Librosa | NumPy | Matplotlib | Scikit-learn | Open
 Accepted at **NGNDAI-2026** (September 2026) — In Press
 Springer Lecture Notes in Networks and Systems (LNNS)
 Indexed by: Scopus, INSPEC, SCImago
+
+## Results
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
+
+### Training Curves
+![Training Curves](training_curves.png)
+
+### Confusion Matrix (GTZAN)
+![Confusion Matrix](confusion_matrix.png)
+
+### Cross-Dataset Confusion Matrix (FMA)
+![Cross Dataset](crossdataset_confusion_matrix.png)
+
+### Full Experiment Comparison
+![Full Comparison](full_experiment_comparison.png)
+
+### Grad-CAM Visualizations
+![Grad-CAM](gradcam_visualization.png)
+
+### Attention Weights
+![Attention Weights](attention_weights.png)
